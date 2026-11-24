@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEEA454-D511-48A5-93BD-0B2981259279}|LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT.vcxproj|C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEEA454-D511-48A5-93BD-0B2981259279}|LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT.vcxproj|solutionrelative:LBYARCH FINAL PROJECT\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEEA454-D511-48A5-93BD-0B2981259279}|LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT.vcxproj|C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\asmdaxpy.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DEEA454-D511-48A5-93BD-0B2981259279}|LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT.vcxproj|solutionrelative:LBYARCH FINAL PROJECT\\asmdaxpy.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEEA454-D511-48A5-93BD-0B2981259279}|LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT.vcxproj|C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\cdaxpy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEEA454-D511-48A5-93BD-0B2981259279}|LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT.vcxproj|solutionrelative:LBYARCH FINAL PROJECT\\cdaxpy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\main.c",
+              "RelativeDocumentMoniker": "LBYARCH FINAL PROJECT\\main.c",
+              "ToolTip": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\main.c",
+              "RelativeToolTip": "LBYARCH FINAL PROJECT\\main.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-24T11:19:22.722Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cdaxpy.c",
+              "DocumentMoniker": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\cdaxpy.c",
+              "RelativeDocumentMoniker": "LBYARCH FINAL PROJECT\\cdaxpy.c",
+              "ToolTip": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\cdaxpy.c",
+              "RelativeToolTip": "LBYARCH FINAL PROJECT\\cdaxpy.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-24T11:19:14.316Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asmdaxpy.asm",
+              "DocumentMoniker": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\asmdaxpy.asm",
+              "RelativeDocumentMoniker": "LBYARCH FINAL PROJECT\\asmdaxpy.asm",
+              "ToolTip": "C:\\Users\\radam\\Desktop\\DLSU\\Term 1 AY 2026-2027\\LBYARCH\\LBYARCH-FINAL-PROJECT\\LBYARCH FINAL PROJECT\\LBYARCH FINAL PROJECT\\asmdaxpy.asm",
+              "RelativeToolTip": "LBYARCH FINAL PROJECT\\asmdaxpy.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-24T11:19:02.096Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\radam\Desktop\DLSU\Term 1 AY 2026-2027\LBYARCH\LBYARCH-FINAL-PROJECT\LBYARCH FINAL PROJECT\LBYARCH FINAL PROJECT\main.c(17,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\radam\Desktop\DLSU\Term 1 AY 2026-2027\LBYARCH\LBYARCH-FINAL-PROJECT\LBYARCH FINAL PROJECT\LBYARCH FINAL PROJECT\main.c(17,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\radam\Desktop\DLSU\Term 1 AY 2026-2027\LBYARCH\LBYARCH-FINAL-PROJECT\LBYARCH FINAL PROJECT\LBYARCH FINAL PROJECT\main.c(17,42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LBYARCH FINAL PROJECT.vcxproj -> C:\Users\radam\Desktop\DLSU\Term 1 AY 2026-2027\LBYARCH\LBYARCH-FINAL-PROJECT\LBYARCH FINAL PROJECT\x64\Release\LBYARCH FINAL PROJECT.exe
